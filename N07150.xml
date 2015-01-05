@@ -114,8 +114,10 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:009108_0000_10310100CA682388" rendition="simple:additions"/>
-            <pb facs="tcp:009108_0001_10310102559373E8" rendition="simple:additions"/>
+            <pb facs="unknown:009108_0000_10310100CA682388"
+                rendition="simple:additions"/>
+            <pb facs="unknown:009108_0001_10310102559373E8"
+                rendition="simple:additions"/>
             <p>AN EXERCISE, CONTAINING A DIALOGUE and ODE <hi>On the</hi> ACCESSION <hi>of His preſent gracious Majeſty,</hi> GEORGE III. Performed at the public COMMENCEMENT in the COLLEGE of PHILADELPHIA, <hi>May</hi> 18th, 1762.</p>
             <p>
                <hi>PHILADELPHIA:</hi> Printed by W. DUNLAP, in <hi>Market</hi>-Street, M,DCC,LXII.</p>
@@ -123,7 +125,7 @@
       </front>
       <body>
          <div type="dialogue">
-            <pb facs="tcp:009108_0002_1031010A6CA86B38"/>
+            <pb facs="unknown:009108_0002_1031010A6CA86B38"/>
             <head>A DIALOGUE, <hi>&amp;c.</hi>
             </head>
             <stage>Lorenzo, Eugenio, Amyntor.</stage>
@@ -152,7 +154,7 @@
                <l>Sparkles with Joy, and ſpeaks ſome rapt'rous Theme.</l>
             </sp>
             <sp>
-               <pb n="4" facs="tcp:009108_0003_1031010C1A7164D8"/>
+               <pb n="4" facs="unknown:009108_0003_1031010C1A7164D8"/>
                <speaker>AMYNTOR.</speaker>
                <l>WHAT Theme more joyous, or can better ſuit</l>
                <l>The glad Return of this auſpicious Day,</l>
@@ -187,7 +189,7 @@
                <l>A Cenſure weak and raſh of Heaven's Decree.</l>
                <l>Shout then, ye favour'd Race, ye Sons of Freedom!</l>
                <l>
-                  <pb n="5" facs="tcp:009108_0004_1031010DACD5DC08"/>Bound every Heart with Joy, and every Breaſt</l>
+                  <pb n="5" facs="unknown:009108_0004_1031010DACD5DC08"/>Bound every Heart with Joy, and every Breaſt</l>
                <l>
                   <gap reason="illegible: indecipherable" extent="1 letter">
                      <desc>•</desc>
@@ -222,7 +224,7 @@
                <l>He meets with Tranſport in his CHARLOTTE's Arms,</l>
                <l>The pleaſing Partner of his Heart and Throne.</l>
                <l>
-                  <pb n="6" facs="tcp:009108_0005_1031010F4027A858"/>But let us not in fond and growing Parley</l>
+                  <pb n="6" facs="unknown:009108_0005_1031010F4027A858"/>But let us not in fond and growing Parley</l>
                <l>Thus waſte the Day.—Begin, ye Choral Band,</l>
                <l>For whom the feſtive Song hath been prepar'd,</l>
                <l>And with loud <hi>Poeans</hi> rend the vaulted Roof.</l>
@@ -254,7 +256,7 @@
                <l>The Sweets of <hi>Liberty</hi> ſhall care beguile,</l>
                <l>And <hi>Juſtice</hi> ſtill her happy Influence ſpread,</l>
                <l>
-                  <pb n="7" facs="tcp:009108_0006_103101175A032A18"/>
+                  <pb n="7" facs="unknown:009108_0006_103101175A032A18"/>
                   <hi>Religion</hi> chear him with a ſacred Smile,</l>
                <l>And bid the Crown ſit gently on his Head.</l>
             </lg>
@@ -290,7 +292,7 @@
                <l>Him gentle <hi>Peace</hi> ſhall kindly greet</l>
                <l>And ſmile beneath his Sway.</l>
                <l>
-                  <pb n="8" facs="tcp:009108_0007_10310118E525C018"/>Then BRITAIN! hail theſe golden Days!</l>
+                  <pb n="8" facs="unknown:009108_0007_10310118E525C018"/>Then BRITAIN! hail theſe golden Days!</l>
                <l>Illuſtrious ſhalt thou ſhine:</l>
                <l>For GEORGE ſhall gain immortal Praiſe;</l>
                <l>And, BRITAIN! GEORGE is thine.</l>
